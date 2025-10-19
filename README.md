@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🕺 About Me:
 Bachelor’s in Computer Science and Engineering 💻 with hands-on experience 💫 in Java Backend Development 📈, skilled in Core Java, Spring Boot, RESTful APIs, Hibernate, and MySQL through personal projects and coursework. Proficient in Spring Security 🔐 and microservices architecture 🪄, with a strong understanding of API development and backend architecture. Strong in OOP, DSA, and problem-solving, with a focus on team collaboration 🤝, clean code, and building scalable, cloud-ready backend systems.
 
 # 💻 Tech Stack:
