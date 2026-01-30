@@ -38,7 +38,3 @@ Bachelor’s in **Computer Science and Engineering** with hands-on experience in
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamPawan777&theme=algolia&hide_border=true)
 
-<!-- Proudly created with GPRM -->
-
-
-<!-- Proudly created with GPRM -->
