@@ -36,9 +36,5 @@ Bachelor's in **Computer Science and Engineering** with hands-on experience in *
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamPawan777&show_icons=true&theme=algolia&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IamPawan777&theme=algolia&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamPawan777&show_icons=true&theme=algolia&hide_border=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=IamPawan777&theme=algolia&hide_border=true)
 
