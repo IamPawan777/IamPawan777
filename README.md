@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Bachelor's in **Computer Science and Engineering** with hands-on experience in **Java Backend Development**. Skilled in **Core Java, Spring Boot, RESTful APIs, Hibernate, and MySQL**, gained through personal projects and coursework. I have a strong understanding of **Spring Security, JWT-based authentication, and microservices architecture**, with a focus on clean code, scalable backend systems, and solid API design. Strong in **OOP, Data Structures & Algorithms**, and problem-solving, with good team collaboration skills.
+Bachelor's in **Computer Science and Engineering** with hands-on experience in **Java Backend Development**. Skilled in **Core Java, Spring Boot, RESTful APIs, Hibernate, MySQL, and Containerization tool Docker**, gained through personal projects and coursework. I have a strong understanding of **Spring Security, JWT-based authentication, and microservices architecture**, with a focus on clean code, scalable backend systems, and solid API design. Strong in **OOP, Data Structures & Algorithms**, and problem-solving, with good team collaboration skills.
 
 ---
 
@@ -31,8 +31,4 @@ Bachelor's in **Computer Science and Engineering** with hands-on experience in *
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=IamPawan777&theme=algolia&hide_border=true)
 
